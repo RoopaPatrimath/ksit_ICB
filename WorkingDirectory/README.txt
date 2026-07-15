@@ -1,4 +1,4 @@
-Project Management with Git - Syllabus Improvement Repository
+Project Management with Git - Syllabus Improvement Repository ksit
 
 Purpose
 This repository stores academic documents used to improve the syllabus for the
